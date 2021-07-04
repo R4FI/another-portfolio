@@ -1,0 +1,157 @@
+body{
+
+font-family: 'Roboto', sans-serif;
+}
+
+
+		h1{
+
+			font-size: 35px;
+
+
+		}
+.first-half{
+	border-radius: 15px;
+	margin-top: 25px;
+	background: url(background.png);
+	background-repeat: no-repeat;
+	display: flex;
+	box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19) , 0 6px 30px 0 rgba(0, 0, 0, 0.50);
+	width: 98.5%;
+	margin-left: 15px;
+
+}
+.enth{
+
+	font-size: 20px;
+	width: 80%;
+}
+
+
+.first{
+
+	width: 100%;
+	margin-top: 100px;
+	padding-left: 5%;
+}
+
+.first-photo{
+
+		margin-top: 20px;
+		padding-right: 25px;
+
+}
+
+#link{
+
+  text-decoration: none;
+  background: linear-gradient(tomato,orange);
+  font-weight: bold;
+  padding: 10px 40px;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+.second-half{
+
+	width: 98.5%;
+	border-radius: 15px;
+	
+
+}
+
+
+.second-half{
+	margin-left: 15px;
+	display: flex;
+	margin-top: 130px;
+	box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19) , 0 6px 30px 0 rgba(0, 0, 0, 0.50);
+
+
+}
+
+.second-photo{
+
+	margin-top: 40px;
+}
+
+.dev{
+
+			padding-left: 100px;
+			margin-top: 150px;
+			}
+
+
+#web{
+
+	font-size: 20px;
+	width: 80%;
+	
+}
+
+.Experience{
+	display: flex;
+	margin-top: 150px;
+	margin-left: 30px;
+
+}
+
+
+.third-left{
+	margin-top: 170px;
+	width: 30%;
+	box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19) , 0 6px 30px 0 rgba(0, 0, 0, 0.50);
+	
+	
+	padding: 20px 30px;
+
+	
+}
+
+ #grad1{
+ 	border-radius: 10px;
+	border-left: 7px solid;
+	border-image: linear-gradient(tomato,navy) ;
+	border-image-slice: 1;
+
+	
+}
+
+
+.third-right{
+
+		margin-top: 170px;
+		width: 30%;
+		box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19) , 0 6px 30px 0 rgba(0, 0, 0, 0.50);
+		margin-left: 200px;
+		padding: 20px 30px;
+
+}
+
+
+#grad2{
+
+	border-radius: 10px;
+	border-image: linear-gradient(cyan,blue);
+	border-image-slice: 1;
+	border-left: 7px solid;
+}
+
+footer{
+
+		text-align: center;
+		margin-top: 90px;
+}
+
+#resume{
+
+	text-decoration: none;
+	background: linear-gradient(tomato,orange);
+	padding: 10px 15px;
+	text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+
+}
